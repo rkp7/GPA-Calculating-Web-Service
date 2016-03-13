@@ -1,4 +1,4 @@
-# GPA-Caluclating-Web-Service
+# GPA-Calculating-Web-Service
 A web service for calculating GPA based on provided course information
 
 Four services are implemented:
